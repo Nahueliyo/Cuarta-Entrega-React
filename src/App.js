@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Components/Navbar/Navbar"
-import ItemListContainer from "./Containers/ItemListContainer/ItemListContainer";
+import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
 import MiComponente from "./MiComponente";
 
 const App = () =>{
